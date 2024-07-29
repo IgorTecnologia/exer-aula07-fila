@@ -1,4 +1,4 @@
-# Exercício aula07 - (Queue) fila
+# Exercício aula07 - collections - (Queue) fila
 *Queue/fila*
 
 - Atividade solucionada durante o primeiro bloco do programa Developer Jr.Java React Full Stack, da ONG Generation Brasil.
